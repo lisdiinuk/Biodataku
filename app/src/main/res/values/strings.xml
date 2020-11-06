@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Biodata</string>
+    <string name="img">img</string>
+    <string name="nm">Nama</string>
+    <string name="nmtxt">Lisdi Inu Kencana</string>
+    <string name="nim">NIM</string>
+    <string name="nimtxt">A11.2018.11166</string>
+    <string name="hobi">Hobi</string>
+    <string name="hobitxt">Belajar Matematika</string>
+    <string name="des">Deskripsi</string>
+    <string name="destxt">Tarik sis, semongkooo</string>
+</resources>
